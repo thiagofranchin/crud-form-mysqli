@@ -14,7 +14,7 @@
 	<fieldset>
 		<legend>Atualização de usuários</legend>
 
-		<?php
+		<?php 
 		
 		$id = $_GET['id'];
 

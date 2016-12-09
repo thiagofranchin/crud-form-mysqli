@@ -16,7 +16,7 @@
 	<fieldset>
 		<legend>Cadastro de usuários</legend>
 
-		<?php
+		<?php 
 			//ESCONDE MENSAGENS PHP
 			ini_set('display_errors', 0 );
 			error_reporting(0);

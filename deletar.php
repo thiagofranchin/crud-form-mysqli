@@ -3,7 +3,7 @@
 	
 	$id = $_GET['id'];
 
-	//DELETAR
+	//DELETAR 
 	$queryDeletarArq = "SELECT * FROM tb_usuarios WHERE id='".$id."'";
 	$deletarArq = mysqli_query($conexao_db, $queryDeletarArq);
 	if($deletarArq):

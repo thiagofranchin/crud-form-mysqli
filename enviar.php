@@ -12,7 +12,7 @@ $size = $_FILES["foto"]["size"];
 $temp = $_FILES["foto"]["tmp_name"];
 $error = $_FILES["foto"]["error"];
 
-//////////////////
+////////////////// 
 
 	if ($error > 0){
 		die("É necessário enviar uma foto! Código do erro: $error.");

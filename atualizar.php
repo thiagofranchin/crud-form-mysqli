@@ -1,6 +1,6 @@
 <?php 
 include 'conexao.php';
-
+ 
 $id = $_POST['id'];
 $nome = utf8_decode($_POST['nome']);
 $email = utf8_decode($_POST['email']);
