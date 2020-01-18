@@ -10,8 +10,6 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-
 <form action="enviar.php" method="POST" enctype="multipart/form-data">
 	<fieldset>
 		<legend>Cadastro de usuários</legend>
@@ -66,8 +64,6 @@
 	}else{}
 ?>
 
-
-
 <!-- SELECIONAR DO DB -->
 <form action="index.php" method="GET">
 	<input type="text" name="input_valor" placeholder="O que você procura?" />
@@ -101,11 +97,6 @@
 	else:
 		echo 'Erro ao buscar: '.mysqli_erro($conexao_db);
 	endif;
-
-?>
-
-
-
-	
+?>	
 </body>
 </html>
