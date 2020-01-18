@@ -1,6 +1,6 @@
 # crud-form-mysqli
 
-Este projeto contém um CRUD com formulário, incluindo campo para subir imagens e com a conexão feita em MySQLi.
+PHP, CRUD, formulário incluindo campo para subir imagens, exemplo com conexão MySQLi.
 
 ## Download
 
