@@ -2,9 +2,7 @@
 
 Este projeto contém um CRUD com formulário, incluindo campo para subir imagens e com a conexão feita em MySQLi.
 
-## Instalação
-
-### Github
+## Download
 
 Na pasta do seu projeto, abra o terminal e digite:
 ```console
